@@ -1,5 +1,5 @@
 {
-    "name": "JamaicanFriedChicken/testapp",
+    "name": "jamaicanfriedchicken/testapp",
     "type": "project",
     "description": "Testing the application from a microservice POV",
     "keywords": ["laravel", "framework"],
