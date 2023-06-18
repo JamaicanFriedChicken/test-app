@@ -1,5 +1,7 @@
 <?php
 
+namespace JamaicanFriedChicken\Testapp\Providers;
+
 use Illuminate\Support\ServiceProvider;
 
 class TestAppProvider extends ServiceProvider
