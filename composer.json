@@ -51,7 +51,12 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": []
+            "dont-discover": [
+                "jamaicanfriedchicken/testapp"
+            ],
+            "providers": [
+                "JamaicanFriedChicken\\Testapp\\TestAppProvider"
+            ]
         }
     },
     "config": {
